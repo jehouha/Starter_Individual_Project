@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Enemies
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Player
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 2662508421
+    locked: 0
+  - name: Background
+    uniqueID: 2420053163
+    locked: 0
+  - name: Background2
+    uniqueID: 2551235783
+    locked: 0
+  - name: Enemies
+    uniqueID: 1176996637
+    locked: 0
+  - name: Foreground
+    uniqueID: 806797043
+    locked: 0
+  - name: Player
+    uniqueID: 4057666129
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GameOver
+    uniqueID: 2929285435
+    locked: 0
